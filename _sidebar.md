@@ -1,5 +1,5 @@
-- Getting started
-  - [Welcome](/)
+<!-- - Getting started
+  - [Welcome](/) -->
 
 - Features
   - Admin
