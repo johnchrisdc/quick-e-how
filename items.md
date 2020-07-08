@@ -52,6 +52,23 @@ Shows the Items list.
 * Click the remove button to remove an Option. (The red circle button with minus sign)
 
 
+## Adding Add Ons
+
+* Go to Add Ons page.
+* Click the Add Add On button.
+* Input the add on name.
+* Input the add on price.
+
+![](/_media/add_ons_add.png ":zoom")
+
+## Adding Item Add Ons
+
+* Scroll to the bottom page of the Item.
+* Check the This product has add ons, like drinks or pearls check box.
+* Select the add ons that you want to add to the current Item.
+
+![](/_media/items_add_add_on.png ":zoom")
+
 ## Delete Item
 
 * Go to [Items](/items?id=items)
