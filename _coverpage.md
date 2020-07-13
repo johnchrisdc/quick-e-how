@@ -5,6 +5,7 @@
 - Here you will learn how to use Quick E-Mart features.
 
 [Admin](/dashboard)
+[Delivery App](/delivery/login)
 [Mobile App](/app/homepage)
 
 

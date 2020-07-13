@@ -18,3 +18,9 @@
     - [Checkout](app/checkout.md)
     - [Orders History](app/orders_history.md)
     - [Sign Up/Sign In](app/sign_in_up.md)
+
+  - Delivery App
+    - [Login](delivery/login)
+    - [Pending Deliveries](delivery/delivery)
+    - [View Order](delivery/view_order)
+    - [Delivered Orders](delivery/delivered)
